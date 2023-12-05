@@ -1,100 +1,36 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logos_entidades.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Valentina042/Consideraciones-eticas-en-Colombia/blob/main/static/logos_entidades.png" width="600" height="300">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Consideraciones éticas para la formación de ingenieros en inteligencia artificial en Colombia</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
+  <p align="Justify">
+    Esta investigación tiene como objetivo explorar en diferentes facultades de ingeniería de Colombia cuál es la aproximación ética de los docentes y estudiantes durante la formación académica para el diseño y desarrollo de algoritmos en inteligencia artificial, al mismo tiempo describir la opinión, conocimientos y aplicación hipotética de la ética en la inteligencia artificial por parte de los estudiantes de pregrado en ingeniería y describir la opinión, conocimientos y uso en la enseñanza de la ética en la
+inteligencia artificial por parte de los docentes de ingeniería; por último, sugerir contenidos mínimos en ética para un programa de formación en inteligencia artificial dentro de las facultades de ingeniería.
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre el repositorio
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+En este repositorio se enuentra el código fuente en python para la petic
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Tecnologías
 
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+El análisis de la base de datos encontrada en este repositorio, llamada encuesta-estudiantes-2023-11-26.xlsx, que corresponde a la última versión recolectada, fueron necesarias las siguientes tecnologías.
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/Valentina042/Consideraciones-eticas-en-Colombia/blob/main/static/excel-logo.png" width="240" height="80">
+    <img src="https://github.com/Valentina042/Consideraciones-eticas-en-Colombia/blob/main/static/forms-logo.png" width="240" height="80">
+    <img src="https://github.com/Valentina042/Consideraciones-eticas-en-Colombia/blob/main/static/jenkins-logo.png" width="240" height="80">
+    <img src="https://github.com/Valentina042/Consideraciones-eticas-en-Colombia/blob/main/static/python-logo.png" width="240" height="80">
+  </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
