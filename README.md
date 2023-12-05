@@ -5,9 +5,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/Valentina042/Consideraciones-eticas-en-Colombia/blob/main/static/logos_entidades.png" width="600" height="300">
+    <img src="https://github.com/Valentina042/Consideraciones-eticas-en-Colombia/blob/main/static/logos_entidades.png" width="650" height="300">
   </a>
-
   <h3 align="center">Consideraciones éticas para la formación de ingenieros en inteligencia artificial en Colombia</h3>
 
   <p align="Justify">
