@@ -16,8 +16,12 @@ inteligencia artificial por parte de los docentes de ingeniería; por último, s
 <!-- ABOUT THE PROJECT -->
 ## Sobre el repositorio
 
-En este repositorio se enuentra el código fuente en python para la petic
-
+En este repositorio se enuentra el código fuente en Python para realizar el proceso de extracción y descarga de datos (app.py) que se encuentran alojados en el servicio de Microsoft Forms de la siguiente forma:
+-  El servicio de Jenkins dispara la tarea programada en un intervalo de tiempo de 10 segundos.
+-  Este script a partir de autenticación por la cabecera MUID (Microsoft User ID) la cual permite la identificación única de un usuario propietario de un formulario y lograr el seguimiento de las repsuestas a dicho formulario; permite realizar una petición HTTPS para poder descargar un conjunto de bytes.
+-  A partir de una función en este script se transforma el arreglo de bytes en un archivo de extensión .xlsx.
+-  La nomenclatura que lleva este archivo es a partir de un formato compuesto por nombre base (encuesta-estudiantes) y la fecha del momento en el que se ejucuta este script (AAAA-MM-DD).
+Adicionalmente, se encuentra un archivo de extensión .ipynb (Jupyter Notebook) con el que se hizo el análisis de la base de datos recolectada por medio de la libreria propia de Python, Seaborn; con la que se realizó el relacionamiento de diferentes variables presentes en la base de datos para su posterior interpretación y documentación de la investigación. 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Tecnologías
